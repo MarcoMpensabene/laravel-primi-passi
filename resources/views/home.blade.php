@@ -12,7 +12,8 @@
             {{ $title}}
         </h1>
         <div>
-            <a href={{$url}}>Infos</a>
+            <a href={{$urlInfo}}>Infos</a>
+            <a href={{$urlButton}}>BOTTONI A CASO </a>
         </div>
     </header>
 

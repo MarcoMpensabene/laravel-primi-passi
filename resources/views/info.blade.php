@@ -15,5 +15,6 @@
             </li>
         @endforeach
     </ul>
+    <a href="{{$url}}">{{$home}}</a>
 </body>
 </html>
